@@ -1,0 +1,26 @@
+{
+  "Gm": {
+    "name": "Gaming Mouse",
+    "stock": 100,
+    "price": 50,
+    "MSRP": 70,
+    "link": "https://www.google.com/",
+    "photo": "https://images-ext-1.discordapp.net/external/eH3FUa0vJQs8hcDUlTewG78nxXlqWN1-ehS6mPTQMQ8/%3Fv%3D1649710355/https/cdn.shopify.com/s/files/1/0549/2681/products/Modeliblack.jpg?width=981&height=664"
+  },
+  "Cc": {
+    "name": "Cute Cats",
+    "stock": 2,
+    "price": 999,
+    "MSRP": 2000,
+    "link": "https://www.google.com/",
+    "photo": "https://cdn.discordapp.com/attachments/1012482671269662760/1012838416255287387/58b180bcba5a92d7d95c58153c9ce5b2.jpg"
+  },
+  "Id123": {
+    "name": "Test item",
+    "stock": 100,
+    "price": 20,
+    "MSRP": 30,
+    "link": "https://www.google.com/",
+    "photo": ""
+  }
+}
